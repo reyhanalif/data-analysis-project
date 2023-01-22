@@ -60,7 +60,7 @@ Dataset ini berisi informasi mengenai laporan insiden yang terjadi di kota Bosto
 ![alt text](https://github.com/reyhanalif/Boston-Crime-EDA/blob/main/Presentation/16.jpg?raw=true)
 ![alt text](https://github.com/reyhanalif/Boston-Crime-EDA/blob/main/Presentation/17.jpg?raw=true)
 
-# Tableu Dashboard
+# Tableau Dashboard
 Dashboard tableu dari visualisasi data pada EDA ini dapat diakses pada link berikut
 https://public.tableau.com/app/profile/reyhan.alif/viz/BostonCrimeDashboard_16571323867760/Dashboard1?publish=yes
 
